@@ -1,5 +1,5 @@
 ## Execução :computer:
-**Conceda permissão de exeução e compile com gcc **
+**Conceda permissão de execução e compile com gcc **
 ```bash
 chmod +x main.c
 gcc -o server-tcp main.c
