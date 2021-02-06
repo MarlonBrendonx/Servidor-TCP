@@ -7,7 +7,9 @@ gcc -o server-tcp main.c
 ```
 ## Teste
 Execute o comando telnet na porta 8000 para testar a conexão do servidor
+```bash
 telnet 127.0.0.1 8000
+```
 ## Resultado Esperado
 
 Socket:: Success
