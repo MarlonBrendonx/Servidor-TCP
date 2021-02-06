@@ -12,6 +12,7 @@ telnet 127.0.0.1 8000
 ```
 ## Resultado Esperado
 
+```bash
 Socket:: Success
 Bind: : Success
 Listen:: Success
@@ -19,3 +20,4 @@ Accept:: Success
 
 Accept:: Success
 Recebendo conexao de: 127.0.0.1
+```
