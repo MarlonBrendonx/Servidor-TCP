@@ -1,6 +1,7 @@
-## Instalação Automática :computer:
-**Conceda permissões e execute o script**
+## Execução :computer:
+**Conceda permissão de exeução e compile com gcc **
 ```bash
-chmod +x install.sh
-bash install.sh
+chmod +x main.c
+gcc -o server-tcp main.c
+./server-tcp
 ```
